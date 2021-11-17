@@ -12,7 +12,7 @@ We gonna develop Flutter Codes total 50 day.
 
 - Language:Dart
 - Program: VS Code
-- ✨Magic ✨
+- ✨Little Magic ✨
 
 ## Challenge Days:
 ## Day 1:
@@ -21,6 +21,7 @@ We gonna develop Flutter Codes total 50 day.
 
 
 
+![Screenshot_1637136667](https://user-images.githubusercontent.com/50817604/142162489-c76a0d0c-c683-4d18-9ef5-fdb2b95cb987.png)
 
 ## License
 
