@@ -23,8 +23,8 @@ class _FadeInAnimationState extends State<FadeInAnimation> {
           children: [
             Expanded(
               child: FadeInUp(
-                duration: Duration(milliseconds: 1000),
-                delay: Duration(milliseconds: 1000),
+                duration: Duration(milliseconds: 3000),
+                delay: Duration(milliseconds: 3000),
                 child: Image.network(
                     "https://cdn.dribbble.com/users/3484830/screenshots/16787618/media/b134e73ef667b926c76d8ce3f962dba2.gif"),
               ),
