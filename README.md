@@ -1,16 +1,29 @@
-# kabalidev50daychallenge
+# Kabalidev
+## Flutter Design Challenge 50 Day
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Hi, i'm Kabalidev,
+This project is a challenge.
+We gonna develop Flutter Codes total 50 day.
+İf you interest this challenge, you can use and follow me :)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Language:Dart
+- Program: VS Code
+- ✨Little Magic ✨
+
+## Challenge Days:
+## Day 1:
+
+- First day we developed Fadeinup animation 
+
+
+
+![Screenshot_1637136667](https://user-images.githubusercontent.com/50817604/142162489-c76a0d0c-c683-4d18-9ef5-fdb2b95cb987.png)
+
+## License
+
+MIT
+
