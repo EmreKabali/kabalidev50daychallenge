@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:kabalidev50daychallenge/Views/Day2/CustromScroolViewPage.dart';
+import 'package:kabalidev50daychallenge/Views/Day3/Steps.dart';
 
 import 'Views/Day1/FadeInAnimation.dart';
 
@@ -8,15 +9,13 @@ void main() {
 }
 
 class Challenge50 extends StatelessWidget {
-  const Challenge50({ Key? key }) : super(key: key);
+  const Challenge50({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      
-    home: CustomScroolViewPage(),
-      
+      home: Steps(),
     );
   }
 }
