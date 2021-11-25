@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kabalidev50daychallenge/Views/Day2/CustromScroolViewPage.dart';
 import 'package:kabalidev50daychallenge/Views/Day3/Steps.dart';
+import 'package:kabalidev50daychallenge/Views/Day4/CardList.dart';
 
 import 'Views/Day1/FadeInAnimation.dart';
 
@@ -15,7 +16,7 @@ class Challenge50 extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Steps(),
+      home: CardList(),
     );
   }
 }
